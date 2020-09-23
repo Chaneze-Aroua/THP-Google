@@ -96,11 +96,11 @@ a:hover{
 }
 
 .search, .lucky{
+    background-color: rgb(242, 242, 242);
     border: none;
     margin: 20px 10px;
     width: 150px;
     height: 35px;
-    background-color: rgb(242, 242, 242);
     color: rgb(94, 94, 94);
 }
 
