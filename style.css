@@ -100,13 +100,13 @@ a:hover{
     margin: 20px 10px;
     width: 150px;
     height: 35px;
-    color: rgb(10, 10, 10);
+    color: rgb(104, 104, 104);
 }
 
 .search:hover, .lucky:hover{
     border: 1px solid rgb(244, 244, 244);
     border-radius: 5px;
-    color: black;
+    color: rgb(104, 104, 104);
     cursor: pointer;
 }
 
