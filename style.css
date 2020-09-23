@@ -100,22 +100,14 @@ a:hover{
     margin: 20px 10px;
     width: 150px;
     height: 35px;
-    color: rgb(104, 104, 104);
+    color: rgb(94, 94, 94);
 }
 
 .search:hover, .lucky:hover{
-    border: 1px solid rgb(244, 244, 244);
+    border: 1px solid rgb(197, 197, 197);
     border-radius: 5px;
     color: black;
     cursor: pointer;
-}
-
-#GoogleEnglish{
-    text-align: center;
-}
-
-#english{
-    color: rgb(76, 76, 189);
 }
 
 /* Footer */
