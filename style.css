@@ -68,7 +68,7 @@ a:hover{
     margin: 15px 450px;
     height: 45px;
     display: flex;
-    justify-content: space-between;  
+    justify-content: start;  
 }
 
 
@@ -83,7 +83,7 @@ a:hover{
 }
 
 #textSearch{
-    width: 450px;
+    width: 400px;
     cursor: text;
     border: none;
     outline: none;
