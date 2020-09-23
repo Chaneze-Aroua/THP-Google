@@ -42,6 +42,19 @@ a:hover{
     border-radius: 90px;
 }
 
+.appicon {
+  width: 24px;
+  height: 24px;
+  padding-left: 3px;
+  margin-top: 0px;
+  opacity: 0.5;
+  margin-top: -3px;
+}
+
+.appicon:hover {
+  opacity: 1;
+}
+
 /* main */
 
 #logoGoogle{
