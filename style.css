@@ -104,9 +104,9 @@ a:hover{
 }
 
 .search:hover, .lucky:hover{
-    border: 1px solid rgb(244, 244, 244);
+    border: 1px solid rgb(200, 200, 200);
     border-radius: 5px;
-    color: rgb(104, 104, 104);
+    color: black;
     cursor: pointer;
 }
 
