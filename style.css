@@ -101,6 +101,7 @@ a:hover{
     width: 150px;
     height: 35px;
     color: rgb(104, 104, 104);
+    background-color: rgb(104, 104, 104);
 }
 
 .search:hover, .lucky:hover{
