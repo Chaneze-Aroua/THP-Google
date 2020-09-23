@@ -79,7 +79,7 @@ a:hover{
 
 .fas{
     margin: 15px;
-    color: rgb(190, 190, 190);
+    color: rgb(244, 244, 244);
 }
 
 #textSearch{
@@ -93,7 +93,6 @@ a:hover{
 #button{
     display: flex;
     justify-content: center;
-    background-color: rgb(244, 244, 244);
 }
 
 .search, .lucky{
